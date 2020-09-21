@@ -1,5 +1,4 @@
-# Handtracking
-Install 
+# Install
 
 Openpose 설치
 
